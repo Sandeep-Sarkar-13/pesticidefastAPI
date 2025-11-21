@@ -1,0 +1,33 @@
+{
+    "Bacterial_leaf_blight": [
+        "Copper hydroxide",
+        "Copper oxychloride"
+    ],
+    "Brown_spot": [
+        "Tricyclazole",
+        "Mancozeb",
+        "Edifenphos"
+    ],
+    "Leaf_Blast": [
+        "Tricyclazole",
+        "Carbendazim",
+        "Azoxystrobin"
+    ],
+    "Leaf_scald": [
+        "Benomyl",
+        "Carbendazim",
+        "Mancozeb",
+        "Copper oxychloride"
+    ],
+    "Leaf_smut": [
+        "Tebuconazole + Trifloxystrobin",
+        "Azoxystrobin + Difenoconazole",
+        "Thiophanate Methyl"
+    ],
+    "Sheat_Blight": [
+        "Azoxystrobin",
+        "Carbendazim",
+        "Propiconazole",
+        "Validamycin"
+    ]
+}

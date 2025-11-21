@@ -1,0 +1,34 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment dump files
+*.env
+*.log
+
+# OS-specific unwanted files
+.DS_Store
+Thumbs.db
+
+# Ignore FastAPI reload cache
+*.sqlite3
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore build artifacts
+build/
+dist/
+*.egg-info/
+
+# If model file is very large and you don't want it in repo
+# uncomment the next line ↓
+# best_fast.pth

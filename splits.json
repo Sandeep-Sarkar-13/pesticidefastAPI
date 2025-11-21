@@ -1,0 +1,11 @@
+{
+    "classes": [
+        "Bacterial_leaf_blight",
+        "Brown_spot",
+        "Healthy_Rice_Leaf",
+        "Leaf_Blast",
+        "Leaf_scald",
+        "Leaf_smut",
+        "Sheat_Blight"
+    ]
+}
