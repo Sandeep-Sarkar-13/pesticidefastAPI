@@ -1,0 +1,99 @@
+{
+    "area_info": {
+        "one_acre_cm2": 40468600,
+        "mini_farm_cm2": 512
+    },
+    "scale_factor": 1.2651784346382134e-05,
+    "water_info": {
+        "water_liters_per_acre": 200,
+        "water_liters_mini_farm": 0.002530356869276427
+    },
+    "recommendations": {
+        "Bacterial_leaf_blight": {
+            "pesticide": "Streptocycline",
+            "acre_dose": {
+                "Streptocycline_g": 1
+            },
+            "mini_farm_dose": {
+                "Streptocycline_g": 1.2651784346382134e-05
+            }
+        },
+        "Brown_spot": {
+            "pesticide": "Tebuconazole",
+            "acre_dose": {
+                "Tebuconazole_ml": 200
+            },
+            "mini_farm_dose": {
+                "Tebuconazole_ml": 0.002530356869276427
+            }
+        },
+        "Healthy_Rice_Leaf": {
+            "pesticide": null,
+            "acre_dose": {},
+            "mini_farm_dose": {}
+        },
+        "Leaf_Blast": {
+            "pesticide": "Tricyclazole",
+            "acre_dose": {
+                "Tricyclazole_g": 120
+            },
+            "mini_farm_dose": {
+                "Tricyclazole_g": 0.001518214121565856
+            }
+        },
+        "Leaf_scald": {
+            "pesticide": "Carbendazim",
+            "acre_dose": {
+                "Carbendazim_g": 200
+            },
+            "mini_farm_dose": {
+                "Carbendazim_g": 0.002530356869276427
+            }
+        },
+        "Leaf_smut": {
+            "pesticide": "Propiconazole",
+            "acre_dose": {
+                "Propiconazole_ml": 200
+            },
+            "mini_farm_dose": {
+                "Propiconazole_ml": 0.002530356869276427
+            }
+        },
+        "Neck_Blast": {
+            "pesticide": "Tricyclazole",
+            "acre_dose": {
+                "Tricyclazole_g": 120
+            },
+            "mini_farm_dose": {
+                "Tricyclazole_g": 0.001518214121565856
+            }
+        },
+        "Rice_Hispa": {
+            "pesticide": "Chlorpyrifos",
+            "acre_dose": {
+                "Chlorpyrifos_ml": 500
+            },
+            "mini_farm_dose": {
+                "Chlorpyrifos_ml": 0.006325892173191067
+            }
+        },
+        "Sheat_Blight": {
+            "pesticide": "Propiconazole",
+            "acre_dose": {
+                "Propiconazole_ml": 200
+            },
+            "mini_farm_dose": {
+                "Propiconazole_ml": 0.002530356869276427
+            }
+        },
+        "narrow_brown_spot": {
+            "pesticide": "Propiconazole",
+            "acre_dose": {
+                "Propiconazole_ml": 200
+            },
+            "mini_farm_dose": {
+                "Propiconazole_ml": 0.002530356869276427
+            }
+        }
+    }
+}
